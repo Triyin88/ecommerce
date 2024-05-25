@@ -5,5 +5,7 @@ plotly
 streamlit
 numpy
 streamlit-extras
-
+xgboost
+imbalanced-learn
+sklearn
 
