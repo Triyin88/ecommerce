@@ -7,5 +7,5 @@ numpy
 streamlit-extras
 xgboost
 imbalanced-learn
-sklearn
+scikit-learn
 
