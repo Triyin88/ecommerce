@@ -31,7 +31,7 @@ import warnings
 warnings.filterwarnings('ignore')
 import plotly.express as px
 from xgboost import XGBClassifier
-from imblearn.ensemble import BalancedBaggingClassifier
+from ._bagging import BalancedBaggingClassifier
 from joblib import load
 import streamlit as st
 
