@@ -8,4 +8,4 @@ streamlit-extras
 xgboost
 imbalanced-learn
 scikit-learn
-
+imblearn
