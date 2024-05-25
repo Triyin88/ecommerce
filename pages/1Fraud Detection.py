@@ -35,8 +35,8 @@ from imblearn.ensemble import BalancedBaggingClassifier
 from joblib import load
 import streamlit as st
 
-X_oversampler=pd.read_csv("X_oversampler.csv)
-y_oversampler=pd.read_csv("y_oversampler.csv)
+X_oversampler=pd.read_csv("X_oversampler.csv")
+y_oversampler=pd.read_csv("y_oversampler.csv")
 
 # load model
 def run_model():
